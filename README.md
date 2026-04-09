@@ -42,7 +42,7 @@ Based on the public post by Artificial Analysis (2026-04-08):
 
 ---
 
-## 2. Example Prompts with Local Videos
+## 2. Example Prompts with Playable Videos
 
 ### 2.1 Prompt [1/4] - Hula Hoop Motion Control
 
@@ -52,7 +52,9 @@ Based on the public post by Artificial Analysis (2026-04-08):
 A hula hoop spinning on a kid's waist, gradually climbing to their chest, then dropping to knees, then ...
 ```
 
-**Local video:** [./videos/prompt-1-hula-hoop.mp4](./videos/prompt-1-hula-hoop.mp4)
+**Video:**
+
+<video src="https://raw.githubusercontent.com/TheoBlake/awesome-happyhorse/main/videos/prompt-1-hula-hoop.mp4" controls width="720"></video>
 
 **Checkpoints:**
 - Long-range motion continuity (waist -> chest -> knees)
@@ -67,7 +69,9 @@ A hula hoop spinning on a kid's waist, gradually climbing to their chest, then d
 A golf ball in a cup rolling around the rim three times before finally dropping in. The golfer's body language matches each rotation. Audio: Ball rattle, exhale, plop.
 ```
 
-**Local video:** [./videos/prompt-2-golf-ball.mp4](./videos/prompt-2-golf-ball.mp4)
+**Video:**
+
+<video src="https://raw.githubusercontent.com/TheoBlake/awesome-happyhorse/main/videos/prompt-2-golf-ball.mp4" controls width="720"></video>
 
 **Checkpoints:**
 - Exact action counting (exactly 3 rotations)
@@ -82,7 +86,9 @@ A golf ball in a cup rolling around the rim three times before finally dropping 
 A cat staring at its own reflection in a toaster, paw tapping the chrome surface. The distorted cat reflection taps back. Audio: Paw taps, confused meow.
 ```
 
-**Local video:** [./videos/prompt-3-cat-toaster.mp4](./videos/prompt-3-cat-toaster.mp4)
+**Video:**
+
+<video src="https://raw.githubusercontent.com/TheoBlake/awesome-happyhorse/main/videos/prompt-3-cat-toaster.mp4" controls width="720"></video>
 
 **Checkpoints:**
 - Metallic reflection realism and distortion behavior
@@ -97,7 +103,9 @@ A cat staring at its own reflection in a toaster, paw tapping the chrome surface
 A barista creating latte art by pouring steamed milk into espresso. The white milk submerges beneath the brown crema initially, then breaks through the surface as the cup fills. The barista's wrist makes precise oscillating movements, creating a rosetta pattern. The milk and espresso maintain their distinct colors while interacting at the boundary. Audio: The gentle pour of liquid, the hiss of the steam wand in the background.
 ```
 
-**Local video:** [./videos/prompt-4-latte-art.mp4](./videos/prompt-4-latte-art.mp4)
+**Video:**
+
+<video src="https://raw.githubusercontent.com/TheoBlake/awesome-happyhorse/main/videos/prompt-4-latte-art.mp4" controls width="720"></video>
 
 **Checkpoints:**
 - Fluid boundary preservation (milk vs crema)

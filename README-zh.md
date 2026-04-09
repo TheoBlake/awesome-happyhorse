@@ -42,7 +42,7 @@
 
 ---
 
-## 2. 示例 Prompt 与本地视频
+## 2. 示例 Prompt 与可播放视频
 
 ### 2.1 Prompt [1/4] - 呼啦圈动作控制
 
@@ -52,7 +52,9 @@
 A hula hoop spinning on a kid's waist, gradually climbing to their chest, then dropping to knees, then ...
 ```
 
-**本地视频：** [./videos/prompt-1-hula-hoop.mp4](./videos/prompt-1-hula-hoop.mp4)
+**视频：**
+
+<video src="https://raw.githubusercontent.com/TheoBlake/awesome-happyhorse/main/videos/prompt-1-hula-hoop.mp4" controls width="720"></video>
 
 **观察点：**
 - 长时序动作连贯性（waist -> chest -> knees）
@@ -67,7 +69,9 @@ A hula hoop spinning on a kid's waist, gradually climbing to their chest, then d
 A golf ball in a cup rolling around the rim three times before finally dropping in. The golfer's body language matches each rotation. Audio: Ball rattle, exhale, plop.
 ```
 
-**本地视频：** [./videos/prompt-2-golf-ball.mp4](./videos/prompt-2-golf-ball.mp4)
+**视频：**
+
+<video src="https://raw.githubusercontent.com/TheoBlake/awesome-happyhorse/main/videos/prompt-2-golf-ball.mp4" controls width="720"></video>
 
 **观察点：**
 - 精确动作计数（是否严格 3 圈）
@@ -82,7 +86,9 @@ A golf ball in a cup rolling around the rim three times before finally dropping 
 A cat staring at its own reflection in a toaster, paw tapping the chrome surface. The distorted cat reflection taps back. Audio: Paw taps, confused meow.
 ```
 
-**本地视频：** [./videos/prompt-3-cat-toaster.mp4](./videos/prompt-3-cat-toaster.mp4)
+**视频：**
+
+<video src="https://raw.githubusercontent.com/TheoBlake/awesome-happyhorse/main/videos/prompt-3-cat-toaster.mp4" controls width="720"></video>
 
 **观察点：**
 - 金属反射和畸变真实性
@@ -97,7 +103,9 @@ A cat staring at its own reflection in a toaster, paw tapping the chrome surface
 A barista creating latte art by pouring steamed milk into espresso. The white milk submerges beneath the brown crema initially, then breaks through the surface as the cup fills. The barista's wrist makes precise oscillating movements, creating a rosetta pattern. The milk and espresso maintain their distinct colors while interacting at the boundary. Audio: The gentle pour of liquid, the hiss of the steam wand in the background.
 ```
 
-**本地视频：** [./videos/prompt-4-latte-art.mp4](./videos/prompt-4-latte-art.mp4)
+**视频：**
+
+<video src="https://raw.githubusercontent.com/TheoBlake/awesome-happyhorse/main/videos/prompt-4-latte-art.mp4" controls width="720"></video>
 
 **观察点：**
 - 流体边界保持（milk vs crema）
